@@ -1,5 +1,5 @@
 # academic-writing
-A curated list of academic writing tutorials&amp;tips
+A curated list of academic writing tutorials&amp;tips.
 
 ## PDF
 1. [21 writing tips](./files/21_writing_tips.pdf)
