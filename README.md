@@ -1,5 +1,5 @@
 # academic-writing
-A curated list of academic writing tutorials&amp;tips.
+A curated list of academic writing tutorials &amp;tips.
 
 ## PDF
 1. [21 writing tips](./files/21_writing_tips.pdf)
@@ -11,3 +11,5 @@ A curated list of academic writing tutorials&amp;tips.
 7. [Research Primer for Graduate Students](./files/Research_Primer_for_Graduate_Students.pdf)
 8. [How to Read a Paper](./files/how-to-read-a-paper.pdf)
 9. [How to read and understand a scientific article](./files/How-to-read-and-understand-a-scientific-article.pdf)
+10. [english-for-writing-research-papers](./flies/english-for-writing-research-papers.pdf)
+
