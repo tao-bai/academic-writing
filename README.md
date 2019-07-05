@@ -22,4 +22,4 @@ A curated list of academic writing tutorials &amp;tips.
 4. https://www.nature.com/scitable/topicpage/scientific-papers-13815490
 5. [Initial steps in writing and submitting a research paper](http://ggaging.com/details/66/en-US/initial-steps-in-writing-and-submitting-a-research-paper)
 6. [A template for (nearly) painless writing in 10 steps.](http://www.phelpslab.net/writing)
-7. 
+
